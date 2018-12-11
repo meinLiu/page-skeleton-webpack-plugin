@@ -271,26 +271,3 @@ const pluginDefaultConfig = {
   logTime: true
 }
 ```
-
-### Contribution
-
-The project is under active development. If you have any questions, please submit your issues. Please refer to the issue template to submit the issue. If you are fixing a bug in the issues, please discuss it in the issue before submit the PR. If it is a new feature, submit a feature-related issue first before submit the PR.
-
-There are three main development folders in the project:
-
-- client: Used to communicate between development projects and plugin server.
-- preview: The code of the preview page.
-- src: plugin server code.
-     - script: script to generate the skeleton page.
-
-Special thanks to @Yasujizr who designed the banner of Page Skeleton.
-
-**Maintainer**
-
-[![Jocs](https://avatars0.githubusercontent.com/u/9712830?s=150&v=4)](https://github.com/Jocs)
-
-### License
-
- [**MIT**](https://github.com/ElemeFE/page-skeleton-webpack-plugin/blob/master/LICENSE).
-
-Copyright (c) 2017-present, @ElemeFE
